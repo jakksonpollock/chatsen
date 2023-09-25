@@ -51,7 +51,7 @@ To set up Chatsen on your local environment, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone <https://github.com/your-repo/chatsen.git>
+git clone https://github.com/jakksonpollock/chatsen.git
 ```
 
 2. Navigate to the project folder:
